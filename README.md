@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ladislav-moravec
-- 👀 I’m interested in finance
+- 👀 I’m interested in IT and finance
 - 🌱 I’m currently learning NEXT.JS
 - 💞️ I’m looking to collaborate on any products
 - 📫 How to reach me moravec.ld@gmail.com or +420 728 530 668
