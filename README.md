@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ladislav-moravec
-- 🌱 I’m currently working as DevOps engineer at CSOB
+- 🌱 I’m currently working as DevOps engineer at CSOB wih AIX, Linux, Python, Bash
 - - 👀 My main focus right now is an automation via Python and Bash 
-- 💞️ I’m interested in DB, AI, Big Data
+- 💞️ I’m interested in Data, DevOps, Security, AI but even in FullStack :)
 - 📫 You can reach me on moravec.ld@gmail.com or +420 728 530 668
 
 <!---
