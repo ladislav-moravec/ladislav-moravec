@@ -1,2 +1,8 @@
-- 👋 Hi, I’m @ladislav-moravec
-- 🌱 I’m currently working as DevOps engineer at CSOB MAIN in Python, SQL, Bash
+- 👋 Hi, I’m @ladislav-moravec absolvent of CTU
+- 💾 I’m currently working as DevOps engineer at CSOB MAIN in Python, SQL, Bash
+- 🌱 As a hobby I am an entrepreneur -> I am developing and maintaining a backend ETL (Extract, Transform, Load) application in Python, which:
+  - Retrieves current market information via multiple API connections
+  - Monitors market data 24/7
+  - Transforms data into strategies
+  - Communicates strategies to advisors via a Telegram bot app
+  - Runs entirely in Oracle Cloud
