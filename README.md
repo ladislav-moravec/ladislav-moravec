@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ladislav-moravec - graduate at CTU
 - 💾 I’m currently working as DevOps engineer at CSOB
   - main at: Python, SQL, Bash, SPOC on integration layer applications 24/7
-- 🌱 As a hobby I am an entrepreneur -> I am developing and maintaining a backend ETL application in Python, which:
+- 🌱 As a hobby I'm an entrepreneur -> I am developing and maintaining a backend ETL application in Python, which:
   - Retrieves current market information via multiple API connections
   - Monitors market data 24/7
   - Transforms data into strategies
